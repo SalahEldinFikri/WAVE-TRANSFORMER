@@ -4,12 +4,23 @@
 
 ### There 2 Versions in this project one version that i build from scratch and the other version that i used the existing functions in it.
 
+
+
+
+
 ## Features
 1- Convert an image to a 1D signal array
 
 2- Perform Fourier transform on a signal using FFT
 
+![image](https://github.com/SalahEldinFikri/WAVE-TRANSFORMER/assets/71356170/520cbf23-acba-47e6-aa4a-3cbbf7fbfd98)
+![image](https://github.com/SalahEldinFikri/WAVE-TRANSFORMER/assets/71356170/a9d6eadb-a99e-4aa1-a57d-1b878b5589e5)
+
+
 3- Perform DTFT (Discrete-Time Fourier Transform) on a signal using FFT
+
+![image](https://github.com/SalahEldinFikri/WAVE-TRANSFORMER/assets/71356170/2ae15759-7acc-48c8-8aaf-a4941f043166)
+![image](https://github.com/SalahEldinFikri/WAVE-TRANSFORMER/assets/71356170/869129d3-6d07-477c-b38c-112ba75825d5)
 
 4- Visualize the transformed signals using a chart
 
