@@ -2,6 +2,8 @@
 ### Project Overview
 ### This repository contains the source code for a digital signal processing (DSP) application. The application provides various functionalities for signal analysis and visualization, including Fourier transform, and DTFT.
 
+### There 2 Versions in this project one version that i build from scratch and the other version that i used the existing functions in it.
+
 ## Features
 1- Convert an image to a 1D signal array
 
