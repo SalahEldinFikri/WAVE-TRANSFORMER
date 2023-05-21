@@ -61,7 +61,7 @@
             this.ClientSize = new System.Drawing.Size(1273, 450);
             this.Controls.Add(this.chart1);
             this.Name = "Form2";
-            this.Text = "FS";
+            this.Text = "DTFT";
             ((System.ComponentModel.ISupportInitialize)(this.chart1)).EndInit();
             this.ResumeLayout(false);
 
