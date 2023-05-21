@@ -80,4 +80,4 @@ This project is licensed under the MIT License.
 The MathNet.Numerics library authors and contributors.
 
 ### Feel free to customize and expand this overview to provide more details specific to your project.
-### Youtube : (LINK)[https://youtu.be/vjERDMwZRJo]
+### Youtube : [LINK](https://youtu.be/vjERDMwZRJo)
