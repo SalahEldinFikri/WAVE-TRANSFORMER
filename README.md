@@ -1,6 +1,6 @@
 # WAVE-TRANSFORMER
 ### Project Overview
-### This repository contains the source code for a digital signal processing (DSP) application. The application provides various functionalities for signal analysis and visualization, including Fourier series, Fourier transform, and DTFT.
+### This repository contains the source code for a digital signal processing (DSP) application. The application provides various functionalities for signal analysis and visualization, including Fourier transform, and DTFT.
 
 ## Features
 1- Convert an image to a 1D signal array
