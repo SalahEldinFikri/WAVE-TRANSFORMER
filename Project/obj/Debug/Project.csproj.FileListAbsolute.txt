@@ -19,3 +19,7 @@ D:\الكلية\3 St\Term 2\DSP\week (14)\Project\bin\Debug\MathNet.Numerics.xml
 D:\الكلية\3 St\Term 2\DSP\week (14)\Project\obj\Debug\Project.csproj.CopyComplete
 D:\الكلية\3 St\Term 2\DSP\week (14)\Project\bin\Debug\Emgu.CV.dll
 D:\الكلية\3 St\Term 2\DSP\week (14)\Project\bin\Debug\Emgu.CV.xml
+C:\Users\salah\OneDrive\Desktop\git up\WAVE-TRANSFORMER\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\salah\OneDrive\Desktop\git up\WAVE-TRANSFORMER\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\salah\OneDrive\Desktop\git up\WAVE-TRANSFORMER\Project\obj\Debug\Project.exe
+C:\Users\salah\OneDrive\Desktop\git up\WAVE-TRANSFORMER\Project\obj\Debug\Project.pdb
